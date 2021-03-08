@@ -1,5 +1,5 @@
-![output](https://raw.githubusercontent.com/milkisa/cat_va_dog-using-pytorch-and-tensorflow/main/images/Figure_2.png)
-![output](https://raw.githubusercontent.com/milkisa/cat_va_dog-using-pytorch-and-tensorflow/main/images/Figure_1.png)
+![output](https://raw.githubusercontent.com/milkisa/horse-vs-human-using-pytorch-and-tensorflow/main/images/Figure_1.png)
+![output](https://raw.githubusercontent.com/milkisa/horse-vs-human-using-pytorch-and-tensorflow/main/images/Figure_2.png)
 
 
 # image classification between cat and dog using both pytorch and tensorflow 2 using resnet and inception
